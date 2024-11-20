@@ -1,6 +1,9 @@
 # Financial_Stock_Analytics
 
+## About 
+
 - Conducting financial analytics of IDXV30 Index, Indonesia's Best-Performing Value Stocks.
+- IDXV30 is an index that measures the stock price performance of 30 stocks that have relatively low price valuations with high trading liquidity and good fundamentals.
 - Dataset is provided by [Sectors App Indonesia](https://sectors.app/indonesia/)
 - Creating a dashboard of Indonesia's Stocks IDXV30 Index with Looker Studio integrated with dataset in Google Sheets that connects to sectors API.
 
